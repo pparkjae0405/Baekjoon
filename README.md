@@ -1,12 +1,15 @@
 # 5/14 백준 코딩테스트
-2557
+
+2557번
+```
 public class Main{
     public static void main(String args[]){
         System.out.println("Hello World!");
     }
 }
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-10718
+```
+10718번
+```
 public class Main{
     public static void main(String args[]){
         for(int i=0;i<=2;i++) {
@@ -15,4 +18,4 @@ public class Main{
         }
     }
 }
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+```
