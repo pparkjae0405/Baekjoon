@@ -1,7 +1,3 @@
-# 5/20 백준 코딩테스트
-
-11. 10871번
-```
 import java.util.*;
 public class Main {
     public static void main(String args[]){
@@ -17,4 +13,3 @@ public class Main {
         System.out.print("\n");
     }
 }
-```

@@ -1,15 +1,3 @@
-# 5/14 백준 코딩테스트
-
-1. 2557번
-```
-public class Main{
-    public static void main(String args[]){
-        System.out.println("Hello World!");
-    }
-}
-```
-2. 10718번
-```
 public class Main{
     public static void main(String args[]){
         for(int i=0;i<=2;i++) {
@@ -18,4 +6,3 @@ public class Main{
         }
     }
 }
-```
